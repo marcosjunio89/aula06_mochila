@@ -1,0 +1,8 @@
+para criarmos um repositorio local utilizamos o comando
+git init 
+
+para adionarmos um comentario utilizamos o seguinte comando
+git commit -m "e aqui colocamos todas as alteracoes feita"
+
+e para mandarmos para o repositorio remoto utilizamos o seguinte comando
+git push
