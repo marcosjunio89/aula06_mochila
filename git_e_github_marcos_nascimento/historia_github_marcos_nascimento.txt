@@ -1,0 +1,3 @@
+A) Criado por Linus Torvalds, pois ele ficou insatisfeito com uma mudança de lincença de utilização do BitKeeper e então decidiu criar seu proprio sistema de versionamento.
+B) A Microsoft, por todos os desenvolvedores estarem utilzando o GitHub e é o lar deles.
+C) Sim, pelo vscode e de terem uma conexão um com o outro.
